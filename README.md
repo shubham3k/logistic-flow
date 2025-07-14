@@ -23,8 +23,8 @@ Before you begin, ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sample-mvp.git
-   cd sample-mvp
+   git clone https://github.com/shubham3k/logistic-flow.git
+   
    ```
 
 2. **Install dependencies**
